@@ -8,6 +8,7 @@ class ApiRestCalculadorasApplicationTests {
 
 	@Test
 	void contextLoads() {
+		"Teste2"
 	}
 
 }
